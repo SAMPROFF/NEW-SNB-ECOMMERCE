@@ -1,0 +1,16 @@
+.cart-item-details {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.add-btn {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.item-qty {
+  padding: 0 5px;
+  font-weight: bold;
+}
